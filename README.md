@@ -1,1 +1,1 @@
-# stochasticSIR_O
+# stochastic SIR and SIRO models
