@@ -1,1 +1,1 @@
-# stochastic SIR, SIRv, SIRj and SIRO models
+# Stochastic SIR, SIRv, SIRj and SIRO models
