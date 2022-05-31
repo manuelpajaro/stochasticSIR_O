@@ -21,7 +21,7 @@ f= [2020 11 01];
 %                                                                 [2020 12 20]
 %                                                                 [2021 04 18]
 
-%% Model Parameters (Pajaro et al Environ. Modell. Softw. 2022)
+%% Model Parameters (Pajaro et al 2022)
 % Choose the ones given for each week (f) in Table 3
 beta0   = 0.14;
 beta1   = 0.03;
