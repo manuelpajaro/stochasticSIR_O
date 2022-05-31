@@ -45,7 +45,7 @@ f= [2021 03 14];
 % 23                  [2021 03 20]
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%% Model Parameters (Pajaro et al Environ. Modell. Softw. 2022)
+%% Model Parameters (Pajaro et al 2022)
 % Choose the ones given for each week (f) in Table 5
 beta   = 0.25;  
 gamma  = 0.015;
